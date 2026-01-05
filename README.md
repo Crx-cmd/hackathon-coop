@@ -1,1 +1,4 @@
-# hackathon-coop
+# Hackaton
+
+
+© Jascha & Heiner
